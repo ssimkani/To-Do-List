@@ -87,8 +87,6 @@ def main():
             print("\nBye!")
             raise SystemExit
 
-        # if an integer selection is greater than 6, print an error statement
-
         else:
             print("Please enter a valid selection.\n")
             continue
